@@ -17,7 +17,6 @@ package reactor.core.publisher;
 
 import java.util.concurrent.atomic.AtomicReference;
 
-import org.hamcrest.Matchers;
 import org.junit.Test;
 import reactor.test.StepVerifier;
 import reactor.util.context.Context;
